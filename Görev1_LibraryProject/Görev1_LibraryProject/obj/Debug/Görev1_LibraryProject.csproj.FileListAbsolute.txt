@@ -1,0 +1,7 @@
+C:\Users\Pasif Yakup\source\repos\Görev1_LibraryProject\Görev1_LibraryProject\bin\Debug\Görev1_LibraryProject.exe.config
+C:\Users\Pasif Yakup\source\repos\Görev1_LibraryProject\Görev1_LibraryProject\bin\Debug\Görev1_LibraryProject.exe
+C:\Users\Pasif Yakup\source\repos\Görev1_LibraryProject\Görev1_LibraryProject\bin\Debug\Görev1_LibraryProject.pdb
+C:\Users\Pasif Yakup\source\repos\Görev1_LibraryProject\Görev1_LibraryProject\obj\Debug\Görev1_LibraryProject.csproj.AssemblyReference.cache
+C:\Users\Pasif Yakup\source\repos\Görev1_LibraryProject\Görev1_LibraryProject\obj\Debug\Görev1_LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\Pasif Yakup\source\repos\Görev1_LibraryProject\Görev1_LibraryProject\obj\Debug\Görev1_LibraryProject.exe
+C:\Users\Pasif Yakup\source\repos\Görev1_LibraryProject\Görev1_LibraryProject\obj\Debug\Görev1_LibraryProject.pdb
